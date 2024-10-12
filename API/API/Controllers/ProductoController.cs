@@ -6,10 +6,18 @@ namespace API.Controllers
     [Route("api/[controller]")]
     public class ProductoController : ControllerBase
     {
-        [HttpGet]
-        public IActionResult ObtenerPrdocutos()
+        //Variables
+        //??????? 
+        private static List<string> _productos = new List<string>
         {
-            return Ok("Saludos clase");
+            "TV","Itachi","Venom","laptop","monitor"
+        };
+
+
+        [HttpGet]
+        public IActionResult ObtenerProductos()
+        {
+            return Ok(_productos);
         }
         //GET POST PUT DELETE CRUD
 
