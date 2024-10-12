@@ -19,6 +19,18 @@ namespace API.Controllers
         {
             return Ok(_productos);
         }
+
+
+        [HttpGet("{id}")]
+        public IActionResult ObtenerProductos(int id)
+        {
+            ///???????
+            /////Me construye???
+            /// {
+            //    "TV","Itachi","Venom","laptop","monitor"
+            //};
+            return Ok(id);
+        }
         //GET POST PUT DELETE CRUD
 
 
