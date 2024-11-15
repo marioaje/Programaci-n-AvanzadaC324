@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UFidelitas\\POOC324\\Programaci-n-AvanzadaC324\\Ejercicios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{697E75EE-D834-491B-84BC-9FD4D4AEADE3}|Ejercicios\\Ejercicios.csproj|d:\\ufidelitas\\pooc324\\programaci-n-avanzadac324\\ejercicios\\ejercicios\\pages\\profe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{697E75EE-D834-491B-84BC-9FD4D4AEADE3}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\pages\\profe.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697E75EE-D834-491B-84BC-9FD4D4AEADE3}|Ejercicios\\Ejercicios.csproj|d:\\ufidelitas\\pooc324\\programaci-n-avanzadac324\\ejercicios\\ejercicios\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{697E75EE-D834-491B-84BC-9FD4D4AEADE3}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{697E75EE-D834-491B-84BC-9FD4D4AEADE3}|Ejercicios\\Ejercicios.csproj|d:\\ufidelitas\\pooc324\\programaci-n-avanzadac324\\ejercicios\\ejercicios\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{697E75EE-D834-491B-84BC-9FD4D4AEADE3}|Ejercicios\\Ejercicios.csproj|solutionrelative:ejercicios\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\UFidelitas\\POOC324\\Programaci-n-AvanzadaC324\\Ejercicios\\Ejercicios\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Ejercicios\\Pages\\Privacy.cshtml",
+              "ToolTip": "D:\\UFidelitas\\POOC324\\Programaci-n-AvanzadaC324\\Ejercicios\\Ejercicios\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Ejercicios\\Pages\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T01:41:47.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Profe.cshtml",
+              "DocumentMoniker": "D:\\UFidelitas\\POOC324\\Programaci-n-AvanzadaC324\\Ejercicios\\Ejercicios\\Pages\\Profe.cshtml",
+              "RelativeDocumentMoniker": "Ejercicios\\Pages\\Profe.cshtml",
+              "ToolTip": "D:\\UFidelitas\\POOC324\\Programaci-n-AvanzadaC324\\Ejercicios\\Ejercicios\\Pages\\Profe.cshtml",
+              "RelativeToolTip": "Ejercicios\\Pages\\Profe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T01:41:18.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\UFidelitas\\POOC324\\Programaci-n-AvanzadaC324\\Ejercicios\\Ejercicios\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Ejercicios\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\UFidelitas\\POOC324\\Programaci-n-AvanzadaC324\\Ejercicios\\Ejercicios\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Ejercicios\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAuwBwAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-05T01:37:29.188Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
